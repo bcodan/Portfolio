@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<?php 
-          include("../header.php"); 
+          include("../header.html"); 
         ?>
 	<body>
 		<?php 
-          include("../navbar.php"); 
+          include("../navbar.html"); 
         ?>
 		<h1>Bienvenue sur mon portFolio</h1>
 		<h2>Bienvenue sur mon portFolio</h2>
