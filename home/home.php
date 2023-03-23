@@ -4,6 +4,7 @@
           include("../header.html"); 
         ?>
 	<body>
+		<div id="wrapper">
 		<?php 
           include("../navbar.html"); 
         ?>
@@ -32,7 +33,8 @@ Praesent suscipit tellus tortor, vitae laoreet sem venenatis eu. Phasellus viver
 
 In non vestibulum dolor. Nunc commodo ex sit amet neque auctor, non porttitor neque fringilla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur elementum gravida quam. Vivamus auctor velit rhoncus, suscipit velit sed, dapibus tortor. Fusce malesuada elit vel dictum congue. Morbi accumsan libero a lorem semper hendrerit non pharetra dolor. Quisque ut neque ut lorem dictum tincidunt. Maecenas ac.</p>
 		<?php 
-          include("../footer.php"); 
+          include("../footer.html"); 
         ?>
+		<div>
 	</body>
 </html>

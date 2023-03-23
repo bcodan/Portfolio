@@ -9,6 +9,10 @@ html{
 	color:white;
 }
 
+#wrapper{
+	display: none;
+}
+
 #navbar{
 	color:white;
 	background-color: gray;
